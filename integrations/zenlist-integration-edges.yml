@@ -95,7 +95,7 @@ edges:
     endorsements: null
     summary_url: https://certification.reso.org/summary/T00000095
     detected_by: sweep-real-estate.py
-    detected: '2026-10-13'
+    detected: '2026-10-14'
 - partner_name: Bay Area Real Estate Information Services (BAREIS)
   partner: null
   partner_match: null
@@ -115,7 +115,7 @@ edges:
     organization_type: MLS
     vendor_uoi: T00000095
     detected_by: sweep-real-estate.py
-    detected: '2026-10-13'
+    detected: '2026-10-14'
 - partner_name: bridgeMLS
   partner: null
   partner_match: null
@@ -135,7 +135,7 @@ edges:
     organization_type: MLS
     vendor_uoi: T00000095
     detected_by: sweep-real-estate.py
-    detected: '2026-10-13'
+    detected: '2026-10-14'
 - partner_name: Doorify MLS
   partner: null
   partner_match: null
@@ -155,7 +155,7 @@ edges:
     organization_type: MLS
     vendor_uoi: T00000095
     detected_by: sweep-real-estate.py
-    detected: '2026-10-13'
+    detected: '2026-10-14'
 - partner_name: MetroList
   partner: null
   partner_match: null
@@ -175,7 +175,7 @@ edges:
     organization_type: MLS
     vendor_uoi: T00000095
     detected_by: sweep-real-estate.py
-    detected: '2026-10-13'
+    detected: '2026-10-14'
 - partner_name: MLSListings
   partner: null
   partner_match: null
@@ -195,7 +195,7 @@ edges:
     organization_type: MLS
     vendor_uoi: T00000095
     detected_by: sweep-real-estate.py
-    detected: '2026-10-13'
+    detected: '2026-10-14'
 - partner_name: San Francisco Association of REALTORS® MLS
   partner: null
   partner_match: null
@@ -215,7 +215,7 @@ edges:
     organization_type: MLS
     vendor_uoi: T00000095
     detected_by: sweep-real-estate.py
-    detected: '2026-10-13'
+    detected: '2026-10-14'
 templates:
 - title: Create new or updated client leads in Lofty when Zenlist receives new or updated clients
   url: https://zapier.com/apps/lofty/integrations/zenlist/1668761/create-new-or-updated-client-leads-in-lofty-when-zenlist-receives-new-or-updated-clients

@@ -69,7 +69,7 @@
     endorsements: null
     summary_url: https://certification.reso.org/summary/T00000095
     detected_by: sweep-real-estate.py
-    detected: '2026-10-13'
+    detected: '2026-10-14'
   status: not-a-workflow
   arazzo: null
 - slug: zenlist-bay-area-real-estate-information-services-bareis
@@ -91,7 +91,7 @@
     organization_type: MLS
     vendor_uoi: T00000095
     detected_by: sweep-real-estate.py
-    detected: '2026-10-13'
+    detected: '2026-10-14'
   status: not-a-workflow
   arazzo: null
 - slug: zenlist-bridgemls
@@ -113,7 +113,7 @@
     organization_type: MLS
     vendor_uoi: T00000095
     detected_by: sweep-real-estate.py
-    detected: '2026-10-13'
+    detected: '2026-10-14'
   status: not-a-workflow
   arazzo: null
 - slug: zenlist-doorify-mls
@@ -135,7 +135,7 @@
     organization_type: MLS
     vendor_uoi: T00000095
     detected_by: sweep-real-estate.py
-    detected: '2026-10-13'
+    detected: '2026-10-14'
   status: not-a-workflow
   arazzo: null
 - slug: zenlist-metrolist
@@ -157,7 +157,7 @@
     organization_type: MLS
     vendor_uoi: T00000095
     detected_by: sweep-real-estate.py
-    detected: '2026-10-13'
+    detected: '2026-10-14'
   status: not-a-workflow
   arazzo: null
 - slug: zenlist-mlslistings
@@ -179,7 +179,7 @@
     organization_type: MLS
     vendor_uoi: T00000095
     detected_by: sweep-real-estate.py
-    detected: '2026-10-13'
+    detected: '2026-10-14'
   status: not-a-workflow
   arazzo: null
 - slug: zenlist-san-francisco-association-of-realtors-mls
@@ -201,6 +201,6 @@
     organization_type: MLS
     vendor_uoi: T00000095
     detected_by: sweep-real-estate.py
-    detected: '2026-10-13'
+    detected: '2026-10-14'
   status: not-a-workflow
   arazzo: null
