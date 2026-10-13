@@ -81,11 +81,6 @@ common:
 
 apis: []
 
-x-enrichment:
-  status: enriched
-  pass: local-v5
-  date: '2026-10-13'
-
 x-coverage:
   state: none
   reason: no-developer-program
@@ -99,3 +94,7 @@ x-coverage:
     status: 403
   - url: https://zenlist.com/
     status: 200
+x-enrichment:
+  status: enriched
+  pass: local-v5
+  date: '2026-10-13'

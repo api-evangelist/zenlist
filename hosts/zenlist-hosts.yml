@@ -77,11 +77,14 @@ hosts:
   - site-links
   - docs-index
   - well-known
+  - vendor-detect
   types:
   - Documentation
   - Support
   serves:
   - docs
+  - cdn
+  vendor: cloudfront
   registrable_domain: zenlist.com
   role: docs
   relation: own
