@@ -48,3 +48,159 @@
   source: edge
   status: pending-partner-spec
   arazzo: null
+- slug: zenlist-reso
+  label: RESO
+  partner: reso
+  partner_name: RESO
+  type: contract
+  channel: network-directory
+  evidence: https://services.reso.org/orgs?showStats=true&showEndorsements=true
+  source: edge
+  relationship: standard-participant
+  contract_reference:
+    register: RESO organizations and endorsements (Real Estate Standards Organization)
+    spec_file: null
+    role: Technology Company
+    tier: Uncertified
+    registered_name: Zenlist
+    organization_uoi: T00000095
+    matched_domain: zenlist.com
+    matched_by: domain
+    endorsements: null
+    summary_url: https://certification.reso.org/summary/T00000095
+    detected_by: sweep-real-estate.py
+    detected: '2026-10-13'
+  status: not-a-workflow
+  arazzo: null
+- slug: zenlist-bay-area-real-estate-information-services-bareis
+  label: Bay Area Real Estate Information Services (BAREIS)
+  partner_name: Bay Area Real Estate Information Services (BAREIS)
+  category: RESO-certified MLS feed
+  type: contract
+  channel: network-directory
+  evidence: https://services.reso.org/orgs?showStats=true&showEndorsements=true
+  source: edge
+  relationship: endpoint-coverage
+  contract_reference:
+    register: RESO organizations and endorsements (Real Estate Standards Organization)
+    spec_file: null
+    standard: RESO
+    endorsements:
+    - Data Dictionary 2.0 Certified
+    organization_uoi: M00000097
+    organization_type: MLS
+    vendor_uoi: T00000095
+    detected_by: sweep-real-estate.py
+    detected: '2026-10-13'
+  status: not-a-workflow
+  arazzo: null
+- slug: zenlist-bridgemls
+  label: bridgeMLS
+  partner_name: bridgeMLS
+  category: RESO-certified MLS feed
+  type: contract
+  channel: network-directory
+  evidence: https://services.reso.org/orgs?showStats=true&showEndorsements=true
+  source: edge
+  relationship: endpoint-coverage
+  contract_reference:
+    register: RESO organizations and endorsements (Real Estate Standards Organization)
+    spec_file: null
+    standard: RESO
+    endorsements:
+    - Data Dictionary 2.0 Passed
+    organization_uoi: M00000057
+    organization_type: MLS
+    vendor_uoi: T00000095
+    detected_by: sweep-real-estate.py
+    detected: '2026-10-13'
+  status: not-a-workflow
+  arazzo: null
+- slug: zenlist-doorify-mls
+  label: Doorify MLS
+  partner_name: Doorify MLS
+  category: RESO-certified MLS feed
+  type: contract
+  channel: network-directory
+  evidence: https://services.reso.org/orgs?showStats=true&showEndorsements=true
+  source: edge
+  relationship: endpoint-coverage
+  contract_reference:
+    register: RESO organizations and endorsements (Real Estate Standards Organization)
+    spec_file: null
+    standard: RESO
+    endorsements:
+    - Data Dictionary 2.0 Passed
+    organization_uoi: M00000389
+    organization_type: MLS
+    vendor_uoi: T00000095
+    detected_by: sweep-real-estate.py
+    detected: '2026-10-13'
+  status: not-a-workflow
+  arazzo: null
+- slug: zenlist-metrolist
+  label: MetroList
+  partner_name: MetroList
+  category: RESO-certified MLS feed
+  type: contract
+  channel: network-directory
+  evidence: https://services.reso.org/orgs?showStats=true&showEndorsements=true
+  source: edge
+  relationship: endpoint-coverage
+  contract_reference:
+    register: RESO organizations and endorsements (Real Estate Standards Organization)
+    spec_file: null
+    standard: RESO
+    endorsements:
+    - Data Dictionary 2.0 Passed
+    organization_uoi: M00000091
+    organization_type: MLS
+    vendor_uoi: T00000095
+    detected_by: sweep-real-estate.py
+    detected: '2026-10-13'
+  status: not-a-workflow
+  arazzo: null
+- slug: zenlist-mlslistings
+  label: MLSListings
+  partner_name: MLSListings
+  category: RESO-certified MLS feed
+  type: contract
+  channel: network-directory
+  evidence: https://services.reso.org/orgs?showStats=true&showEndorsements=true
+  source: edge
+  relationship: endpoint-coverage
+  contract_reference:
+    register: RESO organizations and endorsements (Real Estate Standards Organization)
+    spec_file: null
+    standard: RESO
+    endorsements:
+    - Data Dictionary 2.0 Passed
+    organization_uoi: M00000101
+    organization_type: MLS
+    vendor_uoi: T00000095
+    detected_by: sweep-real-estate.py
+    detected: '2026-10-13'
+  status: not-a-workflow
+  arazzo: null
+- slug: zenlist-san-francisco-association-of-realtors-mls
+  label: San Francisco Association of REALTORS® MLS
+  partner_name: San Francisco Association of REALTORS® MLS
+  category: RESO-certified MLS feed
+  type: contract
+  channel: network-directory
+  evidence: https://services.reso.org/orgs?showStats=true&showEndorsements=true
+  source: edge
+  relationship: endpoint-coverage
+  contract_reference:
+    register: RESO organizations and endorsements (Real Estate Standards Organization)
+    spec_file: null
+    standard: RESO
+    endorsements:
+    - Data Dictionary 2.0 Certified
+    organization_uoi: M00000094
+    organization_type: MLS
+    vendor_uoi: T00000095
+    detected_by: sweep-real-estate.py
+    detected: '2026-10-13'
+  status: not-a-workflow
+  arazzo: null
