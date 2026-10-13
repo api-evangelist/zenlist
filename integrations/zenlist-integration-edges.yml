@@ -1,0 +1,147 @@
+generated: '2026-10-13'
+method: searched
+source:
+- https://zapier.com/apps/zenlist/integrations
+checked:
+- https://composio.dev/toolkits/zenlist
+- https://monid.ai/tools/zenlist
+- https://n8n.io/integrations/zenlist/
+- https://zapier.com/apps/zenlist/integrations
+summary: null
+marketplace_apps:
+- marketplace: zapier
+  channel: ipaas-listing
+  app: zenlist
+  url: https://zapier.com/apps/zenlist/integrations
+  external_url: https://zenlist.com/
+  partner_tier: BRONZE
+  triggers:
+  - key: agentHook
+    label: New and Updated Agents
+  - key: chatHook
+    label: New and Updated Chat Messages
+  - key: clientHook
+    label: New and Updated Clients
+  - key: client_invitationHook
+    label: New and Updated Client Invitations
+  - key: eventHook
+    label: New Event
+  actions:
+  - key: client_invitationCreate
+    label: Create a Client Invitation
+  searches: []
+edges:
+- partner_name: Microsoft Excel
+  partner: null
+  partner_match: null
+  partner_candidate: zapier
+  type: marketplace
+  marketplace: zapier
+  channel: ipaas-usage
+  evidence: https://zapier.com/apps/zenlist/integrations/excel
+  direction: third-party
+  category: Microsoft
+  partner_url: https://zapier.com/office.com
+- partner_name: Wix
+  partner: wix
+  partner_match: domain
+  partner_candidate: null
+  type: marketplace
+  marketplace: zapier
+  channel: ipaas-usage
+  evidence: https://zapier.com/apps/zenlist/integrations/wix
+  direction: third-party
+  category: Website Builders
+  partner_url: https://www.wix.com/
+- partner_name: Anthropic (Claude)
+  partner: null
+  partner_match: null
+  partner_candidate: null
+  type: marketplace
+  marketplace: zapier
+  channel: ipaas-usage
+  evidence: https://zapier.com/apps/zenlist/integrations/anthropic-claude
+  direction: third-party
+  category: AI Models
+  partner_url: https://www.anthropic.com/
+- partner_name: Loftyworks
+  partner: null
+  partner_match: null
+  partner_candidate: null
+  type: marketplace
+  marketplace: zapier
+  channel: ipaas-usage
+  evidence: https://zapier.com/apps/zenlist/integrations/loftyworks
+  direction: third-party
+  category: CRM (Customer Relationship Management)
+  partner_url: https://loftyworks.com/
+templates:
+- title: Create new or updated client leads in Lofty when Zenlist receives new or updated clients
+  url: https://zapier.com/apps/lofty/integrations/zenlist/1668761/create-new-or-updated-client-leads-in-lofty-when-zenlist-receives-new-or-updated-clients
+  apps:
+  - zenlist
+  - lofty
+- title: Create or update Follow Up Boss contacts from new and updated Zenlist clients
+  url: https://zapier.com/apps/follow-up-boss/integrations/zenlist/1256449/create-or-update-follow-up-boss-contacts-from-new-and-updated-zenlist-clients
+  apps:
+  - zenlist
+  - follow-up-boss
+- title: Generate notes in Follow Up Boss with new events in Zenlist
+  url: https://zapier.com/apps/follow-up-boss/integrations/zenlist/822877/generate-notes-in-follow-up-boss-with-new-events-in-zenlist
+  apps:
+  - zenlist
+  - filter
+  - follow-up-boss
+- title: Change contact stages in Follow Up Boss with new events in Zenlist
+  url: https://zapier.com/apps/follow-up-boss/integrations/zenlist/822881/change-contact-stages-in-follow-up-boss-with-new-events-in-zenlist
+  apps:
+  - zenlist
+  - filter
+  - follow-up-boss
+- title: Find contacts and update their stages in Follow Up Boss for new Zenlist clients
+  url: https://zapier.com/apps/follow-up-boss/integrations/zenlist/824318/find-contacts-and-update-their-stages-in-follow-up-boss-for-new-zenlist-clients
+  apps:
+  - zenlist
+  - follow-up-boss
+- title: Create Follow Up Boss tasks for new tour requests in Zenlist
+  url: https://zapier.com/apps/follow-up-boss/integrations/zenlist/824374/create-follow-up-boss-tasks-for-new-tour-requests-in-zenlist
+  apps:
+  - zenlist
+  - filter
+  - follow-up-boss
+- title: Apply action plans to Follow Up Boss contacts for new tour requests in Zenlist
+  url: https://zapier.com/apps/follow-up-boss/integrations/zenlist/824390/apply-action-plans-to-follow-up-boss-contacts-for-new-tour-requests-in-zenlist
+  apps:
+  - zenlist
+  - filter
+  - follow-up-boss
+- title: Create Google Contacts from new and updated client invitations in Zenlist
+  url: https://zapier.com/apps/google-contacts/integrations/zenlist/824398/create-google-contacts-from-new-and-updated-client-invitations-in-zenlist
+  apps:
+  - zenlist
+  - filter
+  - google-contacts
+- title: Create or update leads in BoomTown from new and updated Zenlist invitations
+  url: https://zapier.com/apps/boomtown/integrations/zenlist/824427/create-or-update-leads-in-boomtown-from-new-and-updated-zenlist-invitations
+  apps:
+  - zenlist
+  - filter
+  - boomtown
+- title: Create Top Producer contacts from new client invitations in Zenlist
+  url: https://zapier.com/apps/top-producer/integrations/zenlist/824461/create-top-producer-contacts-from-new-client-invitations-in-zenlist
+  apps:
+  - zenlist
+  - filter
+  - top-producer
+- title: Change contact stages in Follow Up Boss for new and updated Zenlist client invitations
+  url: https://zapier.com/apps/follow-up-boss/integrations/zenlist/825303/change-contact-stages-in-follow-up-boss-for-new-and-updated-zenlist-client-invitations
+  apps:
+  - zenlist
+  - filter
+  - follow-up-boss
+- title: Add newly invited Zenlist clients as Wise Agent CRM leads
+  url: https://zapier.com/apps/wise-agent-crm/integrations/zenlist/1127912/add-newly-invited-zenlist-clients-as-wise-agent-crm-leads
+  apps:
+  - zenlist
+  - wise-agent-crm
+template_total: 44

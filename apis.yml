@@ -1,23 +1,101 @@
 aid: zenlist
+
 name: Zenlist
-description: 'Zenlist is a company surfaced via the API Evangelist harvest backlog (source: gap-automotive-real-estate)
-  and added to the network as a stub for full-pipeline profiling.'
+
+image: https://21517349.fs1.hubspotusercontent-na1.net/hubfs/21517349/Images%20for%20website/ZenlistBannerBig.jpg
+
+description: Zenlist is a collaborative home-search platform for real estate agents and their clients, with MLS-level search
+  on MLS inventory, in-app chat, listing notes, showing requests and itineraries across Mac, Windows, iOS and Android apps,
+  and enterprise offerings for brokerages, teams and MLSs (for example the SFAR MLS mobile app). It contributes open-source
+  RESO tooling on GitHub, including a Rust implementation of RESO RCP-19 RETS validation expressions with compliance tests,
+  and runs a public Rules Playground (rules.zenlist.dev) for listing validation rules. Zenlist publishes no public API, developer
+  documentation or machine-readable contract.
+
 url: https://raw.githubusercontent.com/api-evangelist/zenlist/refs/heads/main/apis.yml
+
 x-type: company
+
 x-source: harvest:gap-automotive-real-estate
-x-tier: stub
-x-tier-reason: harvest
+
+x-tier: profiled
+
+x-tier-reason: enrichment pass 2026-10-13 (local-v5; was harvest)
+
 specificationVersion: '0.20'
+
 created: '2026-10-13'
+
 modified: '2026-10-13'
+
 tags:
 - Company
-apis: []
+- Real Estate
+- Home Search
+- MLS
+- RESO
+- Brokerage Software
+
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+
 common:
+- type: Vendors
+  url: vendors/zenlist-vendors.yml
+- type: LLMsTxt
+  url: llms/zenlist-llms.txt
+- type: SecurityTxt
+  url: well-known/zenlist-help-security.txt
+- type: WellKnown
+  url: well-known/zenlist-well-known.yml
+- type: Hosts
+  url: hosts/zenlist-hosts.yml
+- type: IntegrationEdges
+  url: integrations/zenlist-integration-edges.yml
+- type: Documentation
+  url: https://help.zenlist.com/
+- type: DomainSecurity
+  url: security/zenlist-domain-security.yml
 - type: Website
   url: https://zenlist.com/
+- type: GitHubOrganization
+  url: https://github.com/zenlist
+- type: Tools
+  url: https://rules.zenlist.dev/
+- type: Login
+  url: https://zenlist.com/app/sign-in
+- type: Support
+  url: https://help.zenlist.com/en/
+- type: Blog
+  url: https://blog.zenlist.com
+- type: Newsroom
+  url: https://enterprise.zenlist.com/press
+- type: Partner
+  url: https://enterprise.zenlist.com/for-mlss
+- type: TermsOfService
+  url: https://zenlist.com/terms
+- type: PrivacyPolicy
+  url: https://zenlist.com/privacy
+
+apis: []
+
+x-enrichment:
+  status: enriched
+  pass: local-v5
+  date: '2026-10-13'
+
+x-coverage:
+  state: none
+  reason: no-developer-program
+  method: derived
+  generated: '2026-10-13'
+  generator: derive-coverage.py (pre-flight evidence)
+  detail: >-
+    the company publishes no developer documentation host and no machine-readable contract on its own domain
+  evidence:
+  - url: https://blog.zenlist.com/mcp
+    status: 403
+  - url: https://zenlist.com/
+    status: 200

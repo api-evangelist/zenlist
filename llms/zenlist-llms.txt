@@ -1,0 +1,64 @@
+# Zenlist Help Center
+
+> Advice and help from the Zenlist team
+
+## Support For Agents
+
+- [Agents: Broker Tours for SFAR](http://help.zenlist.com/en/articles/7183414-agents-broker-tours-for-sfar.md): How SFAR agents can use Zenlist to search for and strategically plan Broker Tours
+- [Agents: Zenlist FAQs for SFAR](http://help.zenlist.com/en/articles/7141579-agents-zenlist-faqs-for-sfar.md): SFAR and Zenlist have partnered to offer SFAR agents a robust agent-client collaboration tool. What does this mean for you?
+- [Agents: Integrate your Zenlist Account with Wise Agent CRM](http://help.zenlist.com/en/articles/6789698-agents-integrate-your-zenlist-account-with-wise-agent-crm.md): Connect Wise Agent with your Zenlist account to automatically sync clients to your selected CRM.
+- [Agents: Connect With Other Platforms Through Zapier](http://help.zenlist.com/en/articles/5797972-agents-connect-with-other-platforms-through-zapier.md): Use Zapier to connect your Zenlist account to your CRM, social media, marketing software, or thousands of other tools.
+- [Agents: Integrate Zenlist with Cloze](http://help.zenlist.com/en/articles/5773665-agents-integrate-zenlist-with-cloze.md): A step-by-step guide to connecting your Zenlist account to Cloze!
+- [Recent Releases](http://help.zenlist.com/en/articles/7045117-recent-releases.md): See what's new on Zenlist!
+- [Agents: Chat & Share Listings With Your Clients](http://help.zenlist.com/en/articles/5456530-agents-chat-share-listings-with-your-clients.md): Learn how to chat with your clients and other agents working on Zenlist and how easy it is to share listings through Zenlist.
+- [Agents: Bring Zenlist to Your Market](http://help.zenlist.com/en/articles/5307797-agents-bring-zenlist-to-your-market.md): Heard Zenlist is awesome and want to bring it to your market? Let us know so we can add it to our roadmap!
+- [Agents: How to Sign Up for Zenlist](http://help.zenlist.com/en/articles/5152184-agents-how-to-sign-up-for-zenlist.md): Instructions on how to create a Zenlist agent account
+- [MRED Agents: Why can't I find a private listing on Zenlist?](http://help.zenlist.com/en/articles/5124512-mred-agents-why-can-t-i-find-a-private-listing-on-zenlist.md): Due to MLS rules, a very small portion of private listings \(usually \<4%\) are not visible to Zenlist users
+- [Agents: My Personal Feed](http://help.zenlist.com/en/articles/4470623-agents-my-personal-feed.md): Use your Agent Feed to create custom searches for yourself for which only you will receive updates.
+- [Agents: View Client Activity Log](http://help.zenlist.com/en/articles/4460663-agents-view-client-activity-log.md): Monitor your clients actions within Zenlist to create effective and meaningful outreach to your client.
+- [Agents: Cancelling your Subscription](http://help.zenlist.com/en/articles/4281556-agents-cancelling-your-subscription.md): Stop recurring subscription payments and cancel your Zenlist service.
+- [Agents: Sign In Issues](http://help.zenlist.com/en/articles/4189103-agents-sign-in-issues.md): There are a few reasons you may be having trouble signing into Zenlist, and different solutions for each scenario..
+- [Agents: Your Zenlink](http://help.zenlist.com/en/articles/3939105-agents-your-zenlink.md): How to find and share your Zenlink Public Profile to generate leads and integrate Zenlist into your marketing efforts.
+- [Agents: Duplicate/Clone/Copy a Saved Search](http://help.zenlist.com/en/articles/3829412-agents-duplicate-clone-copy-a-saved-search.md): Copy an existing search from your saved searches or your client's searches and save it for a new client or for yourself.
+- [Agents: Invite a Client](http://help.zenlist.com/en/articles/3828437-agents-invite-a-client.md): Add a client to your Zenlist account by sending them an invite to join you on the platform.
+- [BAREIS: Upgrade Your Plan](http://help.zenlist.com/en/articles/8582619-bareis-upgrade-your-plan.md): Learn more about your upgrade options and the Zenlist plans that are available to you, as an agent with BAREIS MLS.
+- [SFAR: Upgrade Your Plan](http://help.zenlist.com/en/articles/8801847-sfar-upgrade-your-plan.md): Learn more about your upgrade options and the Zenlist plans that are available to you, as an agent with SFAR MLS.
+- [Agents: Zenlist FAQs for MRED](http://help.zenlist.com/en/articles/9016110-agents-zenlist-faqs-for-mred.md): Information for MRED agents about the Zenlist benefit offered to them via their MLS subscription.
+- [CMLS: Upgrade Your Plan](http://help.zenlist.com/en/articles/9221476-cmls-upgrade-your-plan.md): Learn more about your upgrade options and the Zenlist plans that are available to you, as an agent with CMLS.
+- [Agent Upgrade Plans](http://help.zenlist.com/en/articles/9221535-agent-upgrade-plans.md): Learn more about your upgrade options and the Zenlist plans that are available to you.
+- [Agents: Integrate your Zenlist Account with Follow Up Boss](http://help.zenlist.com/en/articles/9911058-agents-integrate-your-zenlist-account-with-follow-up-boss.md): Connect Follow Up Boss with your Zenlist account to automatically sync clients to your selected CRM.
+- [Agent: Client Sign-Up Process](http://help.zenlist.com/en/articles/10547420-agent-client-sign-up-process.md): Step by Step Visual of the Client Sign-Up Process
+- [Agents: Invite/Add a Trusted Lender](http://help.zenlist.com/en/articles/10553126-agents-invite-add-a-trusted-lender.md): Invite your lender and share prospects with them via Zenlist!
+- [Agents: FAQs for Doorify](http://help.zenlist.com/en/articles/10619416-agents-faqs-for-doorify.md): Doorify MLS and Zenlist have partnered to offer Doorify members a robust agent-client collaboration tool. What does this mean for you?
+- [Doorify: Training Webinars](http://help.zenlist.com/en/articles/10619430-doorify-training-webinars.md): Looking to learn how to use Zenlist, or to dive deeper into some specific topics? Our webinar series is just what you're looking for.
+- [Doorify: Sign Up For Zenlist](http://help.zenlist.com/en/articles/10619542-doorify-sign-up-for-zenlist.md): Specific instructions to help Doorify members create their Zenlist account.
+- [MLS Data License Requirements for Zenlist](http://help.zenlist.com/en/articles/10806813-mls-data-license-requirements-for-zenlist.md)
+- [FAQ: Realtor.com Acquisition of Zenlist](http://help.zenlist.com/en/articles/11768920-faq-realtor-com-acquisition-of-zenlist.md): Answers to your questions about the Realtor.com acquisition of Zenlist
+- [Agents: Inactive MLS ID on account](http://help.zenlist.com/en/articles/11984744-agents-inactive-mls-id-on-account.md): What happens when an MLS ID is inactive
+- [Agents: Open Houses on Zenlist](http://help.zenlist.com/en/articles/12278277-agents-open-houses-on-zenlist.md): Learn how to search, view, and get alerted about upcoming open houses in your market.
+
+## Support For Clients
+
+- [Clients: Sign In / Sign Up Issues](http://help.zenlist.com/en/articles/4189053-clients-sign-in-sign-up-issues.md): There are a few reasons you may be having trouble signing into Zenlist, and different solutions for each scenario.
+- [Clients: Deactivating your Zenlist Account](http://help.zenlist.com/en/articles/10555712-clients-deactivating-your-zenlist-account.md): How to deactivate or cancel your Zenlist account as a client
+- [Clients: Hotsheet / Market Report](http://help.zenlist.com/en/articles/10593102-clients-hotsheet-market-report.md)
+
+## Marketing Materials
+
+- [Agents: Logos and Templates for Social Media](http://help.zenlist.com/en/articles/5137461-agents-logos-and-templates-for-social-media.md): Customizable marketing templates for use in your advertising campaigns and to support sharing your Zenlink.
+- [Agents: Email Campaign Templates](http://help.zenlist.com/en/articles/4852099-agents-email-campaign-templates.md): Quick and effective templates for email campaigns that can be sent to your contact list, leads, and prospects using your Personal Zenlink.
+- [Agents: Forward your Web Domain to your Zenlink](http://help.zenlist.com/en/articles/4830569-agents-forward-your-web-domain-to-your-zenlink.md): Forward your personal web domain or website to your personal Zenlink.
+- [Agents: Zenlink Examples](http://help.zenlist.com/en/articles/4828149-agents-zenlink-examples.md): Examples of social media and other Zenlink advertising.
+- [Agents: Add Your Zenlink to Your Social Media Account\(s\)](http://help.zenlist.com/en/articles/4816519-agents-add-your-zenlink-to-your-social-media-account-s.md): Add your personal Zenlink to your Instagram, Facebook, and LinkedIn account\(s\).
+- [SFAR Managing Brokers: Email, Flyer & Presentation Templates](http://help.zenlist.com/en/articles/7919491-sfar-managing-brokers-email-flyer-presentation-templates.md): Quick and effective templates for emails, flyers & presentation that can be shared with agents in your brokerage to promote Zenlist.
+- [Buyer's Guide Template](http://help.zenlist.com/en/articles/9204111-buyer-s-guide-template.md): Customizable buyer's guide templates to showcase your stats, highlight the benefits of working with you, share client testimonials and more!
+- [Doorify: Logos and Templates for Social Media](http://help.zenlist.com/en/articles/10619509-doorify-logos-and-templates-for-social-media.md): Customizable marketing templates for use in your advertising campaigns and to support sharing your Zenlink.
+
+## Agents: eXp Access 
+
+- [eXp Access: FAQ](http://help.zenlist.com/en/articles/8421823-exp-access-faq.md): Need help navigating the new eXp plan or curious to learn more about what has changed? Here is everything you need to know.
+- [eXp Access: Training Webinars](http://help.zenlist.com/en/articles/8425660-exp-access-training-webinars.md): Want a refresher on how to use Zenlist, or to dive deeper into some specific topics? Our webinar series is just what you're looking for.
+- [eXp Access: Add eXp Access to Your Zenlist Account](http://help.zenlist.com/en/articles/8426020-exp-access-add-exp-access-to-your-zenlist-account.md): Specific instructions for eXp agents who are already utilizing Zenlist and wish to add eXp Access to their account.
+- [Agents: Sign up for eXp Access](http://help.zenlist.com/en/articles/8425991-agents-sign-up-for-exp-access.md): Specific instructions for eXp agents getting start on Zenlist!
+- [eXp Access: Upgrade Your Plan](http://help.zenlist.com/en/articles/8592796-exp-access-upgrade-your-plan.md): Learn more about your upgrade options and the Zenlist plans that are available to you, as an eXp agent.
+- [eXp Access: Marketing Materials](http://help.zenlist.com/en/articles/8598341-exp-access-marketing-materials.md): Customizable marketing templates for eXp Agents to use in advertising campaigns and to support sharing your Zenlink.
